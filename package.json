@@ -12,5 +12,9 @@
     "mkdirp": "^0.5.1",
     "request": "^2.88.0",
     "underscore": "^1.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ClaireOHare/npm-test"
   }
 }
