@@ -16,5 +16,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/ClaireOHare/npm-test"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.1",
+    "eslint-config-google": "^0.12.0"
   }
 }
