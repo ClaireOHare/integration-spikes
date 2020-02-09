@@ -1,7 +1,7 @@
 {
-  "name": "npm-test",
+  "name": "testbed-repo",
   "version": "1.0.0",
-  "description": "",
+  "description": "Investigating npm modules, GLVS [Git large versioning system!](https://help.github.com/en/github/managing-large-files/versioning-large-files)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,10 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ClaireOHare/npm-test"
+    "url": "git+https://github.com/ClaireOHare/testbed-repo.git"
   },
   "devDependencies": {
     "eslint": "^5.15.1",
     "eslint-config-google": "^0.12.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/ClaireOHare/testbed-repo/issues"
+  },
+  "homepage": "https://github.com/ClaireOHare/testbed-repo#readme",
+  "keywords": []
 }
