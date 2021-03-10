@@ -9,7 +9,7 @@
   "author": "Claire O'Hare",
   "license": "ISC",
   "dependencies": {
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^1.0.0",
     "request": "^2.88.0",
     "underscore": "^1.9.1"
   },
