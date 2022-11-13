@@ -21,7 +21,7 @@
     "eslint": "^5.15.1",
     "eslint-config-google": "^0.12.0",
     "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.12"
   },
   "bugs": {
     "url": "https://github.com/ClaireOHare/testbed-repo/issues"
